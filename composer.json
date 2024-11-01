@@ -26,14 +26,6 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "doctrine/dbal",
-        "illuminate/cache",
-        "illuminate/database",
-        "saloonphp/laravel-http-sender",
-        "saloonphp/laravel-plugin",
-        "saloonphp/saloon"
-    },
     "suggest": {
         "ext-pdo": "Required to extend the PDO driver for Cloudflare D1."
     },
