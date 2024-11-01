@@ -21,7 +21,7 @@ This package offers support for:
 You can install the package via Composer:
 
 ```bash
-composer require renoki-co/l1
+composer require Branpolo/l1
 ```
 
 ## 🙌 Usage
