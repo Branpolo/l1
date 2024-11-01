@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/l1",
+    "name": "branpolo/l1",
     "description": "Laravel integration for Cloudflare Workers services.",
     "keywords": [
         "laravel",
@@ -21,6 +21,7 @@
     "homepage": "https://github.com/renoki-co/l1",
     "authors": [
         {
+            "name": "AC",
             "name": "Alex Renoki",
             "homepage": "https://github.com/rennokki",
             "role": "Developer"
